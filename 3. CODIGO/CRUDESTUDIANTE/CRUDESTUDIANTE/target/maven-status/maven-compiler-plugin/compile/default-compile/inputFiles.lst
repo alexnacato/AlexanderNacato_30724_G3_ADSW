@@ -1,0 +1,14 @@
+/home/jjjaguaco/Documentos/c47ad63f4bb8e895159e366f6a14f4dd/CRUDESTUDIANTE/src/main/java/com/mycompany/crudestudiante/CRUDESTUDIANTE.java
+/home/jjjaguaco/Documentos/c47ad63f4bb8e895159e366f6a14f4dd/CRUDESTUDIANTE/src/main/java/com/mycompany/crudestudiante/controller/ControlEstudiante.java
+/home/jjjaguaco/Documentos/c47ad63f4bb8e895159e366f6a14f4dd/CRUDESTUDIANTE/src/main/java/com/mycompany/crudestudiante/controller/DecoratorEstudiante.java
+/home/jjjaguaco/Documentos/c47ad63f4bb8e895159e366f6a14f4dd/CRUDESTUDIANTE/src/main/java/com/mycompany/crudestudiante/controller/DecoratorNotificacion.java
+/home/jjjaguaco/Documentos/c47ad63f4bb8e895159e366f6a14f4dd/CRUDESTUDIANTE/src/main/java/com/mycompany/crudestudiante/controller/DecoratorValidacion.java
+/home/jjjaguaco/Documentos/c47ad63f4bb8e895159e366f6a14f4dd/CRUDESTUDIANTE/src/main/java/com/mycompany/crudestudiante/controller/DecoratorValidacionMayorEdad.java
+/home/jjjaguaco/Documentos/c47ad63f4bb8e895159e366f6a14f4dd/CRUDESTUDIANTE/src/main/java/com/mycompany/crudestudiante/controller/FachadaEstadisticas.java
+/home/jjjaguaco/Documentos/c47ad63f4bb8e895159e366f6a14f4dd/CRUDESTUDIANTE/src/main/java/com/mycompany/crudestudiante/controller/ServicioEstudiante.java
+/home/jjjaguaco/Documentos/c47ad63f4bb8e895159e366f6a14f4dd/CRUDESTUDIANTE/src/main/java/com/mycompany/crudestudiante/controller/ServicioMateria.java
+/home/jjjaguaco/Documentos/c47ad63f4bb8e895159e366f6a14f4dd/CRUDESTUDIANTE/src/main/java/com/mycompany/crudestudiante/model/CatalogoMaterias.java
+/home/jjjaguaco/Documentos/c47ad63f4bb8e895159e366f6a14f4dd/CRUDESTUDIANTE/src/main/java/com/mycompany/crudestudiante/model/Estudiante.java
+/home/jjjaguaco/Documentos/c47ad63f4bb8e895159e366f6a14f4dd/CRUDESTUDIANTE/src/main/java/com/mycompany/crudestudiante/model/Materia.java
+/home/jjjaguaco/Documentos/c47ad63f4bb8e895159e366f6a14f4dd/CRUDESTUDIANTE/src/main/java/com/mycompany/crudestudiante/repository/RepositorioEstudiante.java
+/home/jjjaguaco/Documentos/c47ad63f4bb8e895159e366f6a14f4dd/CRUDESTUDIANTE/src/main/java/com/mycompany/crudestudiante/view/FrmEstudiante.java
