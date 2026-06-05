@@ -1,0 +1,6 @@
+
+# --- Reglas para el Proyecto TransControl (Astro) ---
+**/ProyectoWeb/node_modules/
+**/ProyectoWeb/.astro/
+**/ProyectoWeb/.cache/
+**/ProyectoWeb/.vite/
